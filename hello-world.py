@@ -11,3 +11,9 @@ Basic math to teach the youth.
 """
 value = 2
 print(f"{value} plus by 2 is: {value * 2}")
+
+"""
+List of places I have been to in Japan, in order.
+"""
+places_japan = {"1": Tokyo, "2": Osaka, "3": Kyoto, "4": Sapporo}
+print(places_japan["3", "2", "1", "4"])
