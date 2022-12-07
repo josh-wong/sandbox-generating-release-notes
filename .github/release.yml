@@ -1,0 +1,17 @@
+changelog:
+  exclude:
+    labels:
+      - ignore-for-release
+    authors:
+      - (@$AUTHOR)
+  categories:
+    - title: 🎉 New features 
+      labels:
+        - Semver-Minor
+        - enhancement
+    - title: 💪 Other changes
+      labels:
+        - "*"
+    - title: 📦 Dependencies
+      labels:
+        - dependencies
